@@ -1,9 +1,9 @@
 <?php
 // Cấu hình kết nối cơ sở dữ liệu
-$host = 'localhost';
-$dbname = 'student_management_new';
-$username = 'root';
-$password = '';
+$host = 'dbbaitaplonx.mysql.database.azure.com';
+$dbname = 'baitaplonx';
+echo $username = 'ngan90856';
+$password = 'Tu@01215255404';
 
 try {
     $pdo = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
