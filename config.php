@@ -2,7 +2,7 @@
 // Cấu hình kết nối cơ sở dữ liệu
 $host = 'dbbaitaplonx.mysql.database.azure.com';
 $dbname = 'baitaplonx';
-echo $username = 'ngan90856';
+$username = 'ngan90856';
 $password = 'Tu@01215255404';
 
 try {
