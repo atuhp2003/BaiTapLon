@@ -151,6 +151,11 @@ $grades = [10, 11, 12];
                     <label class="form-label">Họ Tên</label>
                     <input type="text" name="name" class="form-control" required>
                 </div>
+                 <div class="row">
+                <div class="col-md-6 mb-3">
+                    <label class="form-label">Quê Quán</label>
+                    <input type="text" name="quequan" class="form-control" required>
+                </div>
                 <div class="col-md-6 mb-3">
                     <label class="form-label">Ngày Sinh</label>
                     <input type="date" name="date_of_birth" class="form-control" required>
